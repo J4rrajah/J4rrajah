@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J4rrajah
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Learning Android Studio
+- 🌱 I’m currently learning Android Studio
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me rellazu038a@gmail.com
 - 🙈❤️ I like Kotlin languange
